@@ -1,0 +1,23 @@
+{
+
+  "customer":[
+    
+    {
+       "id":1,
+       "addhar_no":"2923939",
+       "name":"sdf",
+       "mobile":"373774",
+       "pan":"4848848",
+       "dob":"30/05/1990",
+       "email":"ddsa@wefew.com",
+       "password":"sdfdfdf",
+       "acno":1001
+    }
+
+
+
+
+  ]
+
+
+}
